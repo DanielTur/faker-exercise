@@ -1,1 +1,1 @@
-# faker-exercise
+# https://danieltur.github.io/faker-exercise/
